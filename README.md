@@ -21,3 +21,5 @@ Random Forest classifier  made with antiotic resistance genes data to define two
 
 
 tables_OTUs.R
+
+Incorporation of 16s rDNA qPCR data with several OTU tables and stacked barplots 

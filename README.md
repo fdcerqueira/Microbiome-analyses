@@ -4,7 +4,7 @@ Micriome analysis.
 
 microbiome.R script:
 
-1)Pre-processing the fastq files with dada2.
+1)import data
 
 2)Taxa relative abundance plots
 

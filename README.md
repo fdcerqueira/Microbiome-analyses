@@ -15,3 +15,8 @@ microbiome.R script:
 4)stress and NMDS plots
 
 
+random_forest_AUC.R script:
+
+Random Forest classifier  made with antiotic resistance genes data to define two categories of samples collected from several agricultural fields.
+
+

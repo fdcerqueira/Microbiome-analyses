@@ -4,7 +4,7 @@
 
 **Microbiome annalyses**
 
-microbiome.R script:
+microbiome.R:
 
 1)import data
 

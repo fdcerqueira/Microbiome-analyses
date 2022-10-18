@@ -1,8 +1,8 @@
-# Analysis
+# Microbiome Analyses
 
 
 
-Micriome analysis. 
+Micrcobiome analyses. 
 
 microbiome.R script:
 

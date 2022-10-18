@@ -2,7 +2,7 @@
 
 
 
-Micrcobiome analyses. 
+**Microbiome annalyses**
 
 microbiome.R script:
 

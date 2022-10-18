@@ -16,6 +16,7 @@ microbiome.R:
 
 4)stress and NMDS plots
 
+5)Linear Discriminant Analysis (LefSE)
 
 tables_OTUs.R
 
